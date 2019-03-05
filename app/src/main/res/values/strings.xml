@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kursusera</string>
+    <string name="create_new_account_btn_txt">Create New Account</string>
+    <string name="log_in">Log In</string>
+</resources>
